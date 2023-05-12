@@ -1,0 +1,28 @@
+*{margin: 0;
+pading-0
+box-sizing: border-box;}
+body{
+    background-image: url(./pexels-maxyne-barcel-10402282\ 1.png); background-size: cover;
+  background-attachment: fixed;
+}
+    ul{ display: flex;
+        display: inline;
+        align-items: center;
+        align-content: center;
+        list-style: none;
+
+
+    }
+    nav {height: 100 px;
+    color: aliceblue;
+   
+    padding: 10px;
+    margin: 5px;
+    
+  display: flex;
+    display: inline block;}
+    li
+    
+
+</style>
+
